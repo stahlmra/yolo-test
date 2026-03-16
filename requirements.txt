@@ -1,3 +1,4 @@
 streamlit
-ultralytics
+ultralyticsplus==0.0.28
+ultralytics==8.3.0
 pillow
